@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="161777b8-99f6-49e0-83e1-c77397f94148" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1e2Z8glTaTKvhzH0rYkB0dz0zH5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ViewReportsSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ViewReportsSimulator" />
+      <module name="viewing-figures-reporting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ViewReportsSimulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="161777b8-99f6-49e0-83e1-c77397f94148" name="Default Changelist" comment="" />
+      <created>1593521490914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593521490914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1028" y="348" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593521970563">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state x="-1028" y="348" key="#com.intellij.fileTypes.FileTypeChooser/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1593521970563" />
+    <state x="-970" y="430" width="499" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593521553746">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state x="-970" y="430" width="499" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1593521553746" />
+    <state width="1398" height="311" key="GridCell.Tab.0.bottom" timestamp="1593524435263">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state width="1398" height="311" key="GridCell.Tab.0.bottom/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1593524435263" />
+    <state width="1398" height="311" key="GridCell.Tab.0.center" timestamp="1593524435262">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state width="1398" height="311" key="GridCell.Tab.0.center/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1593524435262" />
+    <state width="1398" height="311" key="GridCell.Tab.0.left" timestamp="1593524435261">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state width="1398" height="311" key="GridCell.Tab.0.left/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1593524435261" />
+    <state width="1398" height="311" key="GridCell.Tab.0.right" timestamp="1593524435263">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state width="1398" height="311" key="GridCell.Tab.0.right/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1593524435263" />
+    <state x="-1232" y="120" key="SettingsEditor" timestamp="1593521653434">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state x="-1232" y="120" key="SettingsEditor/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1593521653434" />
+  </component>
+</project>

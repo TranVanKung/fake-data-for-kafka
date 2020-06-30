@@ -1,0 +1,1 @@
+You'll find the viewing figures input file in the extras folder, in the viewing-figures-generation project.
